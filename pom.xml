@@ -160,7 +160,7 @@
 	<distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://35.188.205.142:8081/repository/maven-nexus-repo/</url>
+            <url>http://34.134.54.5:8081/repository/maven-nexus-repo/</url>
         </repository>
     	</distributionManagement>
 </project>
